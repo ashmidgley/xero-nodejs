@@ -1,0 +1,12 @@
+{
+    "name": "invoice-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "^9.0.0"
+    }
+}
